@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWo4M3g4eDFpa2lnamx1Nnc2djl3Y2E4YzVuamdmM2k0ZmtsZGM1cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ip1NduMj923iZnuHfb/giphy.gif"  />
 
 ###
 
